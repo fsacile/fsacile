@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @fsacile
-- 👀 I’m interested in: biological models, environment, new technologies, societal problems and challenges
+- 👀 I’m interested in: control systems, decision support systems, biological models, water treatment, and new technologies.
 - 🌱 I am Engineering Doctorate Candidate at TU Delft
-- 💞️ I’m looking to collaborate on: modelling systems for sustainability
-- 📫 How to reach me: federico.sacile@gmail.com
+- 📫 How to reach me: federico.sacile@gmail.com or federicosacile@tudelft.nl
 - 😄 Pronouns: he/him
 
 <!---
